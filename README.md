@@ -94,3 +94,7 @@ Comments to explain each step clearly
 
 
 This task helped me get more comfortable with machine learning, and I’m excited to keep learning more from here.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4e1a0b9d-5177-4991-8659-5aad47c1cc4d)
